@@ -59,7 +59,7 @@ def assign_high_color(df):
     return colors
 
 # load cleaned dataset
-df = pd.read_csv("main_data.csv")
+df = pd.read_csv("dashboard/main_data.csv")
 
 # Streamlit layout
 st.title("🚴‍♂️ Bike Sharing Data Dashboard")

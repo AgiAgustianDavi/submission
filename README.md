@@ -41,6 +41,7 @@ pip install -r requirements.txt
 
 Once the environment is set up, you can run the **Streamlit** app to explore the bike-sharing data:
 ```
+cd dashboard
 streamlit run dashboard.py
 ```
 
